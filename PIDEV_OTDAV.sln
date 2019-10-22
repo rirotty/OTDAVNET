@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTDAV.Web", "OTDAV.Web\OTDAV.Web.csproj", "{40A168CA-AB0D-4867-860F-D9026493831D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTDAV.Data", "OTDAV.Data\OTDAV.Data.csproj", "{B4FFA32A-1BDD-46E2-A4D4-41A813808AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTDAV.Domain", "OTDAV.Domain\OTDAV.Domain.csproj", "{7DCB01AD-70FC-4252-866B-18AADE525810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTDAV.ServicePattern", "OTDAV.ServicePattern\OTDAV.ServicePattern.csproj", "{B6D4754B-DF19-4F21-92D1-9C73EED0E5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTDAV.Service", "OTDAV.Service\OTDAV.Service.csproj", "{BCC89A27-13BD-4D28-A8C7-2DB0E1F2A227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A168CA-AB0D-4867-860F-D9026493831D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A168CA-AB0D-4867-860F-D9026493831D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A168CA-AB0D-4867-860F-D9026493831D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A168CA-AB0D-4867-860F-D9026493831D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FFA32A-1BDD-46E2-A4D4-41A813808AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FFA32A-1BDD-46E2-A4D4-41A813808AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FFA32A-1BDD-46E2-A4D4-41A813808AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FFA32A-1BDD-46E2-A4D4-41A813808AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCB01AD-70FC-4252-866B-18AADE525810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCB01AD-70FC-4252-866B-18AADE525810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCB01AD-70FC-4252-866B-18AADE525810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCB01AD-70FC-4252-866B-18AADE525810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D4754B-DF19-4F21-92D1-9C73EED0E5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D4754B-DF19-4F21-92D1-9C73EED0E5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D4754B-DF19-4F21-92D1-9C73EED0E5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D4754B-DF19-4F21-92D1-9C73EED0E5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC89A27-13BD-4D28-A8C7-2DB0E1F2A227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC89A27-13BD-4D28-A8C7-2DB0E1F2A227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC89A27-13BD-4D28-A8C7-2DB0E1F2A227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC89A27-13BD-4D28-A8C7-2DB0E1F2A227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

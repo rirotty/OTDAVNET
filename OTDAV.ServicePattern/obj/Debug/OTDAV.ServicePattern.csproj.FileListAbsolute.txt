@@ -1,0 +1,14 @@
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\OTDAV.ServicePattern.dll.config
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\OTDAV.ServicePattern.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\OTDAV.ServicePattern.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\MySql.Data.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\OTDAV.Data.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\OTDAV.Data.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\obj\Debug\OTDAV.ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\obj\Debug\OTDAV.ServicePattern.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\PIDEV_OTDAV\OTDAV.ServicePattern\obj\Debug\OTDAV.ServicePattern.pdb
